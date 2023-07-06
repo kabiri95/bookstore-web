@@ -10,6 +10,7 @@ WORKDIR /code
 
 
 COPY ./requirements.txt .
+RUN pip install Django==4.1.6
 RUN pip install -r requirements.txt
 
 COPY . .
