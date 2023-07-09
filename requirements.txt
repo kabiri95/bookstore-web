@@ -5,3 +5,4 @@ django-crispy-forms
 crispy-bootstrap5
 django-allauth
 environs[django]
+pillow
