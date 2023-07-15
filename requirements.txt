@@ -7,3 +7,5 @@ django-allauth
 environs[django]
 pillow
 django-debug-toolbar
+whitenoise
+gunicorn
